@@ -4,7 +4,7 @@
 
 
 
-#### The content covers various aspects of mobile app development:
+#### The content of info 6350 covers various aspects of mobile app development:
 
 Development Environment Set-up: Setting up tools and environment.
 
