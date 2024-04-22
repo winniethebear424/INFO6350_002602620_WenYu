@@ -27,6 +27,9 @@ Data Storage and Cloud Connectivity: Storing data locally and integrating with c
 Authentication and Cloud Database: Implementing user authentication and using cloud databases.
 
 Push Notifications and Background Tasks: Engaging users with push notifications and managing background tasks.
+
 Maps and Location Services: Integrating maps and location-based features.
+
 Cybersecurity Fundamentals: Basic principles for app security.
+
 Publishing: Preparing and publishing apps to app stores.
